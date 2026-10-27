@@ -1,0 +1,4 @@
+interface:
+  display_name: "REAI"
+  short_description: "Draft evidence-backed WeChat long-form analysis"
+  default_prompt: "Use $reai to develop a clear stance, verify source material, and draft or revise a WeChat article; generate images or upload a draft only when I explicitly request them."
