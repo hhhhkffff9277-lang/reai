@@ -4,7 +4,7 @@
 
 REAI 是一套可阅读、可修改的写作 skill：主文件规定任务边界，参考资料保存研究、立意、表达和审查方法，可选脚本处理排版与草稿上传。仓库不提供在线模型服务、个人公众号账号或固定服务器。
 
-[完整介绍页](https://ai.run-linux.com/s/mjrGbzjPHs7pAN_1fSdMGA) · [反馈与交流](https://github.com/hhhhkffff9277-lang/reai/issues) · [使用范围](USAGE.md)
+[完整介绍页](https://hhhhkffff9277-lang.github.io/reai-wechat-skills/) · [反馈与交流](https://github.com/hhhhkffff9277-lang/reai/issues) · [使用范围](USAGE.md)
 
 ## 适合做什么
 
